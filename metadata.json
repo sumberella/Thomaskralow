@@ -1,7 +1,7 @@
 {
     "name": "Evedex",
     "symbol": "EDEX",
-    "description": "A DEX utility token on the Solana blockchain, designed for seamless and efficient decentralized transactions ",
+    "description": "EveDex is a community-driven token and the native asset of our EveDex exchange, powering seamless transactions within the ecosystem. The project is led by CEO Thomas Karlow.",
     "image": "https://raw.githubusercontent.com/sumberella/Thomaskralow/refs/heads/main/TK_image.png",
     "additionalMetadata": {
         "website": "https://theevedex.ai/",
@@ -12,7 +12,7 @@
     "attributes": [
       {
         "trait_type": "Category",
-        "value": "Meme Coin"
+        "value": "Exchange Utility Coin"
       }
     ]
 }
